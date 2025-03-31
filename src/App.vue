@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-       <div class="min-h-screen min-w-screen">
+       <div class="h-screen w-screen">
               <router-view></router-view>
        </div>
 </template>
